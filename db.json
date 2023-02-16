@@ -2,12 +2,11 @@
   "users": [
     {
       "id": 1,
-      "username":"Bob",
-      "email": "bob@gmail.com",
-      "password": "12345"
+      "email": "admin@stockbroker.com",
+      "password": "admin123"
     },
     {
-      "id": 1,
+      "id": 2,
       "username":"shalini",
       "email": "shalini@gmail.com",
       "password": "34596"
